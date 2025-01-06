@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-#seb-eo=!zzf&8ht$_a#!+#s0dh!%zfr#y_^8-afne&4rj-*$&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'DEBUG' in os.environ
 
-ALLOWED_HOSTS = ["localhost", "mahid-django-blog.herokuapp.com", ".herokuapp.com"
+ALLOWED_HOSTS = ["localhost", "mahid-django-blog-59af092467f1.herokuapp.com", ".herokuapp.com"
 ]
 
 
